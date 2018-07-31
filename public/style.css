@@ -1,0 +1,46 @@
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
+
+body{
+  text-align: center;
+
+  position:absolute;
+  top: 10%;
+  left: 20px;
+  right:0px;
+  bottom:0px;
+  overflow-y:scroll;
+  font-family: Courier;
+  padding: 25px;
+  font-size: 16px;
+  /* justify-content: flex-start */
+}
+
+.display{
+padding: 10px;
+
+}
+
+img{
+  max-height: 60%;
+  max-width: 80%;
+  align-items: center;
+}
+
+/* .cats{
+
+  border-style: solid;
+  max-width: 35%;
+  display: grid;
+flex-direction: row;
+flex-wrap: wrap;
+overflow-x: auto;
+margin: 5px;
+
+} */
